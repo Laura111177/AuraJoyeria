@@ -1,0 +1,2 @@
+{ id: 'o1', subcat: 'collares', nombre: 'Collar Gargantilla Suprema', desc: '...', precio: 34500, img: 'AQUÍ_VA_TU_LINK', link: '#' }
+* **Opción A (Fotos de Internet):** Si subes tus fotos a un servidor o a una plataforma gratuita para almacenar imágenes (como *Postimages.org* o *Imgur.com*), copia el enlace directo de la imagen (debe terminar en `.jpg` o `.png`) y pégalo dentro de las comillas en `img: 'https://...'`.
